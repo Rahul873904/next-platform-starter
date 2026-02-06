@@ -1,0 +1,27 @@
+[
+  {
+    "id": "req_seed_01",
+    "type": "admissions",
+    "name": "Aarav Sharma",
+    "email": "aarav.parent@example.com",
+    "phone": "+91 90000 12345",
+    "message": "Looking for admission in Grade 4 for 2025-26.",
+    "details": {
+      "grade": "4",
+      "campus": "South Delhi"
+    },
+    "created_at": "2024-07-18T09:15:00+05:30"
+  },
+  {
+    "id": "req_seed_02",
+    "type": "feedback",
+    "name": "Kavya Iyer",
+    "email": "kavya@example.com",
+    "phone": "+91 88000 67890",
+    "message": "Love the STEM lab and the cultural program updates.",
+    "details": {
+      "category": "Parent feedback"
+    },
+    "created_at": "2024-07-19T10:05:00+05:30"
+  }
+]
